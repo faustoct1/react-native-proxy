@@ -11,6 +11,4 @@ Use it to improve app or components performance.
 It creates a proxy around the view component. The component starts loading lazily, instead eager, when app starts or component loads. Combine with libs and components like react-navigation, react-native components, etc.
 
 ### How to use?
-`TODO
-
-
+`TODO`
