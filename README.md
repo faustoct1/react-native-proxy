@@ -2,7 +2,7 @@
 React Native performance improver made easy :)
 
 ### What's it?
-It's a Proxy component to react-native that's improve apps performance.  
+It's a Proxy component to react-native to improve apps performance.  
 
 ### When to use?
 Use it to improve app or components performance.
