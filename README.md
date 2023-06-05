@@ -37,6 +37,7 @@ const navigation = useNavigation()
 </TouchableOpacity>
 ````
 
+### Limitations
 `navigation.navigate` x `navigation.push` to work properly you must use push instead of navigate. The method navigate reuses the view which leads in navigate to Proxy again. But you can still using `navigate` outside the proxy.
 
 
